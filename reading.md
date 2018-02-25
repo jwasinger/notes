@@ -9,5 +9,11 @@
 - https://ethresear.ch/t/batching-and-cyclic-partitioning-of-logs/536
 - https://ethresear.ch/t/history-state-and-asynchronous-accumulators-in-the-stateless-model/287
 
+## asynchronous accumulators:
+https://eprint.iacr.org/2015/718.pdf
+
 # Byzantine Fault Tolerance Articles
 - [PBFT](http://pmg.csail.mit.edu/papers/osdi99.pdf)
+
+# Stablecoins:
+ - [Seigniorage Shares](https://bravenewcoin.com/assets/Whitepapers/A-Note-on-Cryptocurrency-Stabilisation-Seigniorage-Shares.pdf)
